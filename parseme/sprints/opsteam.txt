@@ -1,0 +1,6 @@
+Ops Team - Sprint 4 Summary
+
+Completed: database schema migration
+Completed: API endpoint for user data
+In progress: performance testing
+Blocked: staging environment is down

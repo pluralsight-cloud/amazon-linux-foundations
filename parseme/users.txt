@@ -1,0 +1,5 @@
+alice:x4401:engineering:alice@company.com
+bob:x4892:marketing:bob@company.com
+carol:x4210:engineering:carol@company.com
+david:x4330:hr:david@company.com
+eve:x4567:marketing:eve@company.com

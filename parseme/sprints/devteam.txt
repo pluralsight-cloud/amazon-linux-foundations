@@ -1,0 +1,6 @@
+Dev - Sprint 4 Summary
+
+Completed: login page redesign
+Completed: password reset flow
+In progress: user profile settings
+Blocked: waiting on API access from backend team

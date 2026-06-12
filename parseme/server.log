@@ -1,0 +1,13 @@
+Server started successfully on port 8080
+WARNING: disk usage is above 80%
+error: failed to connect to database
+User admin logged in from 192.168.1.10
+User guest logged in from 192.168.1.22
+warning: retrying connection (attempt 1)
+warning: retrying connection (attempt 2)
+warning: retrying connection (attempt 3)
+ERROR: max retries exceeded, giving up
+Server shutting down
+Backup completed successfully
+error: backup verification failed
+User admin logged out

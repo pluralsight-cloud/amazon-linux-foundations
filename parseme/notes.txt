@@ -1,0 +1,17 @@
+Meeting Notes - Project Kickoff
+
+Attendees: Alice, Bob, Carol
+
+Agenda items discussed:
+- Review project timeline
+- Assign team roles
+- Set weekly check-in schedule
+
+
+Next steps:
+1. Alice will draft the project plan
+2. Bob will set up the repository
+3. Carol will schedule the first check-in
+
+
+Follow-up meeting is on Friday at 2pm.

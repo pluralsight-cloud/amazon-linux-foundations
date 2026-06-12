@@ -1,0 +1,5 @@
+Action Items - Project Kickoff
+
+Owner: Alice  - Draft project plan by Wednesday
+Owner: Bob    - Set up repository by Thursday
+Owner: Carol  - Send calendar invite by end of day

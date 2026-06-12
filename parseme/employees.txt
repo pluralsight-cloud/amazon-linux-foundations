@@ -1,0 +1,6 @@
+Name	Department	Location	Extension
+Alice	Engineering	Building A	x4401
+Bob	Marketing	Building B	x4892
+Carol	Engineering	Building C	x4210
+David	HR	Building B	x4330
+Eve	Marketing	Building A	x4567
